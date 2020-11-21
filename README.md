@@ -49,8 +49,6 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 - wheel                    0.34.2
 
 
-<h2> Here is a Video Demonstrating how this application works! </h2>
-
 
 
 
