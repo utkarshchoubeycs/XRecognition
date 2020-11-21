@@ -51,8 +51,7 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 
 <h2> Here is a Video Demonstrating how this application works! </h2>
 
-![image](https://drive.google.com/file/d/1j0c-iQJE74zvWegEl1p1m_UBX4fFqg-k/view?usp=sharing)
-
+<a href = "https://drive.google.com/file/d/1j0c-iQJE74zvWegEl1p1m_UBX4fFqg-k/view?usp=sharing"> </a>
 
 
 
