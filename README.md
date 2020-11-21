@@ -12,8 +12,9 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 
 <h4><center>Here is the modules/Libraries needed for this project.</center></h4>
 
-<h2>   Package                  Version </h2>
- -----------------------  ----------
+
+   Package                  Version
+--------------------------------------
 - cachetools               4.1.0
 - certifi                  2020.4.5.1
 - chardet                  3.0.4
