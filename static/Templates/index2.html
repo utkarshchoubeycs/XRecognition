@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block title %}
+    XRecognition
+{% endblock %}
+
+{% block main %}
+
+<center>
+<form action = "/success" method = "post" enctype="multipart/form-data">
+    <h3><i class="fa fa-file-text" aria-hidden="true"></i> Select the image file</h3>
+    <input type="file" name="file" />
+    <input type = "submit" value="Upload">
+</form>
+</center>
+<center><h5>{{msg}}</h5></center>
+<br><hr>
+<center><form action = "/Recognised" method = "GET" >
+    <button type="submit" >Recognise</button>
+</form>
+</center>
+			
+{% endblock %}
