@@ -12,7 +12,7 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 
 <h4><center>Here is the modules/Libraries needed for this project.</center></h4>
 
-   Package                  Version
+<h2>   Package                  Version </h2>
  -----------------------  ----------
 - cachetools               4.1.0
 - certifi                  2020.4.5.1
@@ -29,24 +29,24 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 - idna                     2.9
 - itsdangerous             1.1.0
 - Jinja2                   2.11.2
-MarkupSafe               1.1.1
-numpy                    1.18.3
-panda                    0.3.1
-pip                      20.0.2
-protobuf                 3.11.3
-pyasn1                   0.4.8
-pyasn1-modules           0.2.8
-pytz                     2019.3
-requests                 2.23.0
-rsa                      4.0
-setuptools               46.1.3
-six                      1.14.0
-SQLAlchemy               1.3.16
-sqlparse                 0.3.1
-termcolor                1.1.0
-urllib3                  1.25.9
-Werkzeug                 0.16.0
-wheel                    0.34.2
+- MarkupSafe               1.1.1
+- numpy                    1.18.3
+- panda                    0.3.1
+- pip                      20.0.2
+- protobuf                 3.11.3
+- pyasn1                   0.4.8
+- pyasn1-modules           0.2.8
+- pytz                     2019.3
+- requests                 2.23.0
+- rsa                      4.0
+- setuptools               46.1.3
+- six                      1.14.0
+- SQLAlchemy               1.3.16
+- sqlparse                 0.3.1
+- termcolor                1.1.0
+- urllib3                  1.25.9
+- Werkzeug                 0.16.0
+- wheel                    0.34.2
 
 
 Here is a Video Demonstrating how this application works!
