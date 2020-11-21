@@ -12,23 +12,23 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 
 <h4><center>Here is the modules/Libraries needed for this project.</center></h4>
 
-Package                  Version
-----------------------------------
-cachetools               4.1.0
-certifi                  2020.4.5.1
-chardet                  3.0.4
-click                    7.1.1
-cs50                     5.0.3
-Flask                    1.1.2
-Flask-Session            0.3.1
-google-api-core          1.17.0
-google-auth              1.14.0
-google-cloud-vision      1.0.0
-googleapis-common-protos 1.51.0
-grpcio                   1.28.1
-idna                     2.9
-itsdangerous             1.1.0
-Jinja2                   2.11.2
+   Package                  Version
+ -----------------------  ----------
+- cachetools               4.1.0
+- certifi                  2020.4.5.1
+- chardet                  3.0.4
+- click                    7.1.1
+- cs50                     5.0.3
+- Flask                    1.1.2
+- Flask-Session            0.3.1
+- google-api-core          1.17.0
+- google-auth              1.14.0
+- google-cloud-vision      1.0.0
+- googleapis-common-protos 1.51.0
+- grpcio                   1.28.1
+- idna                     2.9
+- itsdangerous             1.1.0
+- Jinja2                   2.11.2
 MarkupSafe               1.1.1
 numpy                    1.18.3
 panda                    0.3.1
