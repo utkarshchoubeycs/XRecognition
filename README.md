@@ -1,6 +1,6 @@
 This is XRecognition
 
-![Screenshot](assets/images/img.PNG)
+![Screenshot](static/images/img.PNG)
 
 XRecognition is a Multi-Lingual Handwritten Text Recognizer with Mathematical Experssion Recognition.
 
