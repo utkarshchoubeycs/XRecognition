@@ -10,8 +10,6 @@ The web application asks user to upload any handwriiten scanned images (JPEG,PNG
 and then it scans the text and expressions from the image and write it into a text file "output.txt" which then can be downloaded by the user.
 To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Vision API)
 
-<h4><center>Here is the modules/Libraries needed for this project.</center></h4>
-
 
    Package                  Version
 --------------------------------------
