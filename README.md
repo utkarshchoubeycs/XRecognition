@@ -1,4 +1,4 @@
-My Final Project is XRecognition
+This is XRecognition
 
 XRecognition is a Multi-Lingual Handwritten Text Recognizer with Mathematical Experssion Recognition.
 
