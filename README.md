@@ -1,4 +1,4 @@
-<p align = "center"> This is XRecognition </p>
+<p align = "center"> <h1>This is XRecognition </h1> </p>
 
 ![Screenshot](static/images/img.PNG)
 
