@@ -28,5 +28,5 @@ Make sure you have all the libraries mentioned in requirements.txt installed in 
 Once you have done all this, Your application is Ready to run!
 Type "Flask run" on Terminal and your web application will start.
 
-I have bought the domain and hosted this web application on xrecognition.in
+I have bought the domain and hosted this web application on http://xrecognition.in
 Please check the website and also i have included the rest of the code here.
