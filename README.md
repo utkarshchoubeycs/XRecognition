@@ -33,7 +33,6 @@ To Recognise the text (OCR) - I have use VISION API from GCP (Google Cloud Visio
 - MarkupSafe               1.1.1
 - numpy                    1.18.3
 - panda                    0.3.1
-- pip                      20.0.2
 - protobuf                 3.11.3
 - pyasn1                   0.4.8
 - pyasn1-modules           0.2.8
