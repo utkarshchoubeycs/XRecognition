@@ -1,4 +1,4 @@
-This is XRecognition
+<p align = "center"> This is XRecognition </p>
 
 ![Screenshot](static/images/img.PNG)
 
@@ -18,7 +18,7 @@ When you have downloaded your GCP Credentials with Key in it, rename the file as
 
 To start the Web Application -
 
-make sure you have these libraries installed in your terminal or VM
+make sure you have all the libraries mentioned in requirements.txt installed in your terminal or VM
 
 Package                  Version
 ------------------------ ----------
