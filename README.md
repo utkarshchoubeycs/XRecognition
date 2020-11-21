@@ -1,4 +1,6 @@
-My Final Project is XRecognition
+This is XRecognition
+
+![Screenshot](assets/images/img.PNG)
 
 XRecognition is a Multi-Lingual Handwritten Text Recognizer with Mathematical Experssion Recognition.
 
@@ -61,7 +63,6 @@ To check your existing libraries you can use - pip list
 
 Once you have done all this, Your application is Ready to Start.
 Type "Flask run" on Terminal and your web application will start.
-
 
 I have bought the domain and hosted this web application on xrecognition.in
 Please check the website and also i have included the rest of the code here.
